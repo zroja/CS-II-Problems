@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1526069210 source:c:\users\cstep lc\desktop\computer science ii\main.cpp
+	<iostream>
+	<exception>
+	<string.h>
+	"Student.h"
+	"Person.h"
+	"Teacher.h"
+
+1526069210 c:\users\cstep lc\desktop\computer science ii\student.h
+	<string>
+	<iostream>
+	"Person.h"
+
+1526069210 c:\users\cstep lc\desktop\computer science ii\person.h
+	<string>
+	<iostream>
+
+1526069210 c:\users\cstep lc\desktop\computer science ii\teacher.h
+	<string>
+	<iostream>
+	"Person.h"
+
+1526069210 source:c:\users\cstep lc\desktop\computer science ii\person.cpp
+	"Person.h"
+	<iostream>
+
+1526069210 source:c:\users\cstep lc\desktop\computer science ii\student.cpp
+	"Student.h"
+	"Person.h"
+	<string>
+	<iostream>
+
+1526069210 source:c:\users\cstep lc\desktop\computer science ii\teacher.cpp
+	"Student.h"
+	"Person.h"
+	"Teacher.h"
+	<string>
+	<iostream>
+
