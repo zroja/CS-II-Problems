@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1526331083 source:c:\users\cstep lc\desktop\computer science ii\finallab\checkingaccount.cpp
+	"CheckingAccount.h"
+	"Account.h"
+	<iostream>
+
+1526331147 source:c:\users\cstep lc\desktop\computer science ii\finallab\main.cpp
+	<iostream>
+	"Account.h"
+	"SavingsAccount.h"
+	"CheckingAccount.h"
+
+1526331147 c:\users\cstep lc\desktop\computer science ii\finallab\account.h
+	<string>
+	<iostream>
+
+1526327585 source:c:\users\cstep lc\desktop\computer science ii\finallab\savingaccount.cpp
+	"SavingAccount.h"
+	"Account.h"
+	<iostream>
+
+1526330825 source:c:\users\cstep lc\desktop\computer science ii\finallab\account.cpp
+	"Account.h"
+	<iostream>
+
+1526327439 c:\users\cstep lc\desktop\computer science ii\finallab\savingaccount.h
+	<string>
+	<iostream>
+	"Account.h"
+
+1526331147 c:\users\cstep lc\desktop\computer science ii\finallab\savingsaccount.h
+	<string>
+	<iostream>
+	"Account.h"
+
+1526330181 source:c:\users\cstep lc\desktop\computer science ii\finallab\savingsaccount.cpp
+	"SavingsAccount.h"
+	"Account.h"
+	<iostream>
+
+1526331147 c:\users\cstep lc\desktop\computer science ii\finallab\checkingaccount.h
+	<string>
+	<iostream>
+	"Account.h"
+
